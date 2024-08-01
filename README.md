@@ -1,8 +1,7 @@
 # PFA-Process-Mining-Fraud-detection
 
-## Tools
-- Celonis
-- python & jupyter notebook
+## Project architecture
+<img src="Screens/architecture.png" alt="architecture" />
 
 ## Description
 
@@ -53,3 +52,6 @@
 <img src="Screens/7.png" alt="image-7" />
 <img src="Screens/8.png" alt="image-8" />
 
+## Tools
+- Celonis
+- python & jupyter notebook
